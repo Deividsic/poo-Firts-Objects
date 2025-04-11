@@ -9,5 +9,8 @@ public class Funcion {
     {
         return (short) (base*base*base);
     }
+    {
+        public int areaCuadrado(int lado)
+    }
 
 }
